@@ -1,11 +1,12 @@
 
 
+[![My Discord (329693127453704212)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/329693127453704212)
 [![GitHub followers](https://img.shields.io/github/followers/ncrrr?style=social)](https://github.com/ncrrr)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/nicolas_carriere?style=social)](https://twitter.com/nicolas_carriere)-->
 
 <div align="center">
   
-  ### Stats ncrrr ^_^
+  # Stats ncrrr ^_^
 
 </div>
 
@@ -23,6 +24,7 @@
 ### 🛠️ Mes compétences
 - **Langages** : TypeScript, JavaScript, HTML/CSS, Bash
 - **Outils** : Git, Docker, Arch Linux, MacOS, WebStorm
+- **Self-host** : VaultWarden, GitLab, Pi-Hole, Uptime Kuma, Tor Relay, Push server.
 
 
 
