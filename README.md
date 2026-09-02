@@ -8,6 +8,9 @@
 <div>
 
 ![Discord](https://dcbadge.limes.pink/api/shield/329693127453704212)
+![GitHub Repo stars](https://img.shields.io/github/stars/ncrrr?style=social)
+
+
 <!--[![My Discord (329693127453704212)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/329693127453704212)
 [![GitHub followers](https://img.shields.io/github/followers/ncrrr?style=social)](https://github.com/ncrrr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nicolas_carriere?style=social)](https://twitter.com/nicolas_carriere)-->
