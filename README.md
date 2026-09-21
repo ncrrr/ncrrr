@@ -5,11 +5,9 @@
 
 </div>
 
-<div>
 
-![Discord](https://dcbadge.limes.pink/api/shield/329693127453704212)
+[![Discord](https://dcbadge.limes.pink/api/shield/329693127453704212)](https://discord.com/users/ncrrr)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ncrrr?style=social)
-
 
 <!--[![My Discord (329693127453704212)](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/329693127453704212)
 [![GitHub followers](https://img.shields.io/github/followers/ncrrr?style=social)](https://github.com/ncrrr)
@@ -32,7 +30,4 @@
 - **Langages** : TypeScript, JavaScript, HTML/CSS, Bash
 - **Outils** : Git, Docker, Arch Linux, MacOS, WebStorm
 - **Self-host** : VaultWarden, GitLab, Pi-Hole, Uptime Kuma, Tor Relay, Push server.
-
-
-
 
