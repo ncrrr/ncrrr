@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # Stats ncrrr ^_^
+  # Stats ncrrr ᓚᘏᗢ
 
 </div>
 
