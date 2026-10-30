@@ -26,8 +26,8 @@
 <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 
 ---
-### 🛠️ Mes compétences
+### 🛠️ Skills
 - **Langages** : TypeScript, JavaScript, HTML/CSS, Bash
-- **Outils** : Git, Docker, Arch Linux, MacOS, WebStorm
-- **Self-host** : VaultWarden, GitLab, Pi-Hole, Uptime Kuma, Tor Relay, Push server.
+- **Tools** : Git, Docker, Arch Linux, MacOS, WebStorm
+- **Self-host** : VaultWarden, GitLab, Pi-Hole, Uptime Kuma, Tor Relay, Monero node, Push server.
 
